@@ -12,7 +12,7 @@ Lets take another definition of cloud computing
 Cloud computing is the delivery of computing services like servers, storage, databases, networking, software analytics, and intelligence-over the internet, often on a pay-to-go basis. Instead of storing data and running applications on local devices or servers, users access these resources remotely through the internet.
 
 
-Before understanding what is cloud computing is lets dig a bit about what servers are.
+Before understanding what cloud computing is lets dig a bit about what servers are.
 What is a server.
 A server is a computer or program that provides services to other computers, called clients. It can refer to a physical machine or a software program. Servers are designed to handle requests from multiple clients simultaneously, making resources like files, applications, and data accessible to many users. 
 
